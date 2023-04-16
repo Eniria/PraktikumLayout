@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">PraktikumLayout</string>
+    <string name="phone_description">Galaxy J5 Pro memiliki kamera Full HD beresolusi tinggi danfitur untuk menghemat pemakaian kuota data.</string>
+    <string name="phone_display"> PLS LCD
+        5.2 inches, 74.5 cm2 (~70.7% screen-to-body ratio) \n
+        720 x 1280 pixels, 16:9 ratio (~282 ppi density)\n
+        Corning Gorilla Glass (market dependent)\n
+    </string>
+    <string name="phone_size">
+        142.8 x 69.5 x 8.1 mm (5.62 x 2.74 x 0.32 in)\n
+        143 g (5.04 oz)\n
+        Dual SIM (Nano-SIM, dual stand-by)
+    </string>
+    <string name="phone_other">
+        Li-Ion 2400 mAh, non-removable\n
+        Up to 16 h (3G)\n
+        Up to 54 \n
+        Black, Gold
+    </string>
+</resources>
